@@ -9,7 +9,7 @@ Static HTML pages for app privacy policies and terms of service. Designed for Gi
 | **The 10 Phases App** | [Legal](the10phasesapp/) · [Privacy](the10phasesapp/privacy.html) · [Terms](the10phasesapp/terms.html) |
 
 **Service Provider:** Back Nine Bogeys  
-**Contact:** trentonwillard22@icloud.com
+**Contact:** notice_00_pocket@icloud.com
 
 ## Structure
 
